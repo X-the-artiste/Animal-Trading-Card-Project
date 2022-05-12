@@ -1,0 +1,38 @@
+html {
+    background: linear-gradient(45deg, lightblue, darkslateblue )
+}
+h3{
+    font-weight: bold;
+    font-size: 23px;
+    }
+img{
+    height: 300px;
+    width: 300px;
+    b
+    }
+#first{
+      font-style: italic;
+    }
+.card {
+    background: white;
+    width: 315px;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+    border-right: solid 8px lightgray;
+    border-bottom: solid 8px lightgray;
+}
+.textbox {
+    border: solid .3px black;
+    text-align: left;
+    padding: .7px;
+}
+span{
+    font-weight: bold;
+    text-align: left;
+}
+li {
+    text-align: left;
+    list-style: none;
+    padding: 
+}
